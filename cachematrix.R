@@ -1,6 +1,6 @@
 ## These two functions work together to store, solve, and return 
 ## a matrix and its inverse.  After the inverse is calculated, 
-## the cached value will be returned without recalculating.
+## the cached value will be returned without recalculating. 
 
 
 ## Factory class that creates the list that will store and retrieve 
